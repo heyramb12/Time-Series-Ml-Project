@@ -12,7 +12,6 @@ This repository consolidates two complementary time-series forecasting pipelines
 ```
 ├── AppleStockAnalysis.ipynb     # Stock data download, EDA, LSTM/GRU forecasting
 ├── BitcoinPredictionRNN.ipynb    # Bitcoin data ingestion, feature engineering, RF/LSTM/ARMA models
-├── requirements.txt              # Python dependencies
 └── README.md                     # This overview
 ```
 
